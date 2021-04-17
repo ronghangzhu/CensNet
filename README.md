@@ -20,9 +20,16 @@ If you use this code for you research, please consider citing:
 ```
 @article{jiang2020co,
   title={Co-embedding of Nodes and Edges with Graph Neural Networks},
-  author={Jiang, Xiaodong and Zhu, Ronghang and Li, Sheng and Ji, Pengsheng},
+  author={Jiang, Xiaodong and Zhu, Ronghang and Ji, Pengsheng and Li, Sheng},
   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
   year={2020},
   publisher={IEEE}
+}  
+@inproceedings{jiang2019censnet,
+  title={CensNet: Convolution with Edge-Node Switching in Graph Neural Networks.},
+  author={Jiang, Xiaodong and Ji, Pengsheng and Li, Sheng},
+  booktitle={IJCAI},
+  pages={2656--2662},
+  year={2019}
 }
 ```
