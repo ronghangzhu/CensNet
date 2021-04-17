@@ -11,4 +11,6 @@ Code release for ["Co-embedding of Nodes and Edges with Graph Neural Networks"](
 # Dataset
 The datasets (Cora, Citeseer and PubMed) are in [GoogleDrive](https://drive.google.com/file/d/1TXVTe2saZ80d26X5zhkqObhfhhTm6vyl/view?usp=sharing) and [BaiduPan (pw:frvg)](https://pan.baidu.com/s/1d5D5qApPvlYVdV5qWlUIgA).  
 The datasets will be stored in the following way.  
-'<hello>'
+'''
+hell o wo
+'''
