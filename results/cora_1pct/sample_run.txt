@@ -1,0 +1,14 @@
+Argument            Value
+------------------  --------------
+task                classification
+data_name           cora
+current_torch_seed  42
+train_ratio         0.05
+num_hidden          64
+dropout_ratio       0.5
+learning_rate       0.01
+num_epochs          200
+early_stopping      50
+
+Accuracy on test set: 
+0.7876106194690266
