@@ -17,7 +17,8 @@ You can run `python train.py` to train and evaluate.
 
 # Citation
 If you use this code for you research, please consider citing:  
-```@article{jiang2020co,
+```
+@article{jiang2020co,
   title={Co-embedding of Nodes and Edges with Graph Neural Networks},
   author={Jiang, Xiaodong and Zhu, Ronghang and Li, Sheng and Ji, Pengsheng},
   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
