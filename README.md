@@ -1,5 +1,5 @@
 # CensNet
-Code release for ["Co-embedding of Nodes and Edges with Graph Neural Networks"](https://arxiv.org/abs/2010.13242) (IEEE PAMI 2020)
+Code release for ["Co-embedding of Nodes and Edges with Graph Neural Networks"](https://arxiv.org/abs/2010.13242) (IEEE PAMI 2020) and ["CensNet: Convolution with Edge-Node Switching in Graph Neural Networks"](https://www.ijcai.org/Proceedings/2019/369)
 
 # Prerequisites
 * Python3
