@@ -16,7 +16,7 @@ You need to move the dataset file into CensNet file.
 You can run `python train.py` to train and evaluate.
 
 # Citation
-If you use this code for you research, please consider citing:  
+If you use this code for your research, please consider citing:  
 ```
 @article{jiang2020co,
   title={Co-embedding of Nodes and Edges with Graph Neural Networks},
